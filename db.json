@@ -1,0 +1,58 @@
+{
+    "citites":[
+{
+    "id":0,
+    "img": "https://links.papareact.com/5j2",
+    "location": "Delhi",
+    "distance": "3-hour drive"
+},
+{
+    "id":1,
+    "img": "https://links.papareact.com/1t0",
+    "location": "Noida",
+    "distance": "3-minute drive"
+},
+{
+    "id":2,
+    "img": "https://links.papareact.com/40m",
+    "location": "Jaipur",
+    "distance": "4-5-hour drive"
+},
+{
+    "id":3,
+    "img": "https://links.papareact.com/msp",
+    "location": "Bengaluru",
+    "distance": "6-7-hour drive"
+},
+{
+    "id":4,
+    "img": "https://links.papareact.com/5j2",
+    "location": "Chennai",
+    "distance": "10-hour drive"
+},
+{
+    "id":5,
+    "img": "https://links.papareact.com/2k3",
+    "location": "Ujjain",
+    "distance": "6-7-hour drive"
+},
+{
+    "id":6,
+    "img": "https://links.papareact.com/ynx",
+    "location": "Mathura",
+    "distance": "45-minute drive"
+},
+{
+    "id":7,
+    "img": "https://links.papareact.com/kji",
+    "location": "Lucknow",
+    "distance": "4-5-hour drive"
+},
+{
+    "id":8,
+    "img": "https://links.papareact.com/41m",
+    "location": "Meerut",
+    "distance": "4-5-hour drive"
+}
+    ]
+}
